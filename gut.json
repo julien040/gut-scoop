@@ -1,19 +1,19 @@
 {
-    "version": "0.2.9",
+    "version": "0.2.10",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/julien040/gut/releases/download/0.2.9/gut_Windows_i386.zip",
+            "url": "https://github.com/julien040/gut/releases/download/0.2.10/gut_Windows_i386.zip",
             "bin": [
                 "gut.exe"
             ],
-            "hash": "57ad38cc6779f74c6636422a8cecb41f4d1fac5a554aa05156402c283ebe6148"
+            "hash": "733dac4914c7a596d53324630a7aa6283eca84599d5e8b09b2382b97f1dca217"
         },
         "64bit": {
-            "url": "https://github.com/julien040/gut/releases/download/0.2.9/gut_Windows_x86_64.zip",
+            "url": "https://github.com/julien040/gut/releases/download/0.2.10/gut_Windows_x86_64.zip",
             "bin": [
                 "gut.exe"
             ],
-            "hash": "640a59439d7cb7f43349dbe83cc81633b1f08a34a47dccb0dd14b81e18f3bc20"
+            "hash": "6864b4c98072dcfc10a68935c210cbc9f51572578e47c8b1ea05c7281829e2aa"
         }
     },
     "homepage": "https://gut-cli.dev",
